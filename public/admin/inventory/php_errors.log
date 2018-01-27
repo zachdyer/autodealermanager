@@ -1,0 +1,41 @@
+[24-Jan-2018 20:49:14 UTC] PHP Fatal error:  Call to a member function logVar() on a non-object in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 6
+[24-Jan-2018 20:49:14 UTC] PHP Stack trace:
+[24-Jan-2018 20:49:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 20:49:14 UTC] PHP   2. Adm->__construct() /home/ubuntu/workspace/public/admin/inventory/add/index.php:3
+[24-Jan-2018 20:49:14 UTC] PHP   3. require_once() /home/ubuntu/workspace/functions/adm.php:24
+[24-Jan-2018 20:50:23 UTC] PHP Fatal error:  Call to a member function logVar() on a non-object in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 8
+[24-Jan-2018 20:50:24 UTC] PHP Stack trace:
+[24-Jan-2018 20:50:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 20:50:24 UTC] PHP   2. Adm->__construct() /home/ubuntu/workspace/public/admin/inventory/add/index.php:3
+[24-Jan-2018 20:50:24 UTC] PHP   3. require_once() /home/ubuntu/workspace/functions/adm.php:24
+[24-Jan-2018 20:52:10 UTC] PHP Fatal error:  Call to a member function logVar() on a non-object in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 8
+[24-Jan-2018 20:52:10 UTC] PHP Stack trace:
+[24-Jan-2018 20:52:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 20:52:10 UTC] PHP   2. Adm->__construct() /home/ubuntu/workspace/public/admin/inventory/add/index.php:3
+[24-Jan-2018 20:52:10 UTC] PHP   3. require_once() /home/ubuntu/workspace/functions/adm.php:24
+[24-Jan-2018 20:53:57 UTC] PHP Fatal error:  Call to a member function logVar() on a non-object in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 10
+[24-Jan-2018 20:53:57 UTC] PHP Stack trace:
+[24-Jan-2018 20:53:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 20:53:57 UTC] PHP   2. Adm->__construct() /home/ubuntu/workspace/public/admin/inventory/add/index.php:3
+[24-Jan-2018 20:53:57 UTC] PHP   3. require_once() /home/ubuntu/workspace/functions/adm.php:24
+[24-Jan-2018 20:59:15 UTC] PHP Fatal error:  Call to a member function logVar() on a non-object in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 6
+[24-Jan-2018 20:59:15 UTC] PHP Stack trace:
+[24-Jan-2018 20:59:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 20:59:15 UTC] PHP   2. Adm->header() /home/ubuntu/workspace/public/admin/inventory/add/index.php:4
+[24-Jan-2018 20:59:15 UTC] PHP   3. require_once() /home/ubuntu/workspace/functions/adm.php:31
+[24-Jan-2018 21:34:17 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 11
+[24-Jan-2018 21:34:17 UTC] PHP Stack trace:
+[24-Jan-2018 21:34:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 21:34:17 UTC] PHP   2. Adm->header() /home/ubuntu/workspace/public/admin/inventory/add/index.php:4
+[24-Jan-2018 21:35:09 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 11
+[24-Jan-2018 21:35:09 UTC] PHP Stack trace:
+[24-Jan-2018 21:35:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 21:35:09 UTC] PHP   2. Adm->header() /home/ubuntu/workspace/public/admin/inventory/add/index.php:4
+[24-Jan-2018 21:35:15 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 11
+[24-Jan-2018 21:35:15 UTC] PHP Stack trace:
+[24-Jan-2018 21:35:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 21:35:15 UTC] PHP   2. Adm->header() /home/ubuntu/workspace/public/admin/inventory/add/index.php:4
+[24-Jan-2018 21:35:57 UTC] PHP Parse error:  syntax error, unexpected '$success' (T_VARIABLE) in /home/ubuntu/workspace/functions/admin/inventory/add/controller.php on line 11
+[24-Jan-2018 21:35:57 UTC] PHP Stack trace:
+[24-Jan-2018 21:35:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/admin/inventory/add/index.php:0
+[24-Jan-2018 21:35:57 UTC] PHP   2. Adm->header() /home/ubuntu/workspace/public/admin/inventory/add/index.php:4

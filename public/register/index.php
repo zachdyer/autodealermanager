@@ -1,7 +1,9 @@
 <?php
 
 include("../../functions/adm.php"); 
-\adm\layout\header();
+
+$adm = new Adm();
+$adm->header(); 
 
 ?>
 
@@ -49,4 +51,4 @@ include("../../functions/adm.php");
     </div>
   </div>
  
-<?php \adm\layout\footer(); ?>
+<?php $adm->footer(); ; ?>

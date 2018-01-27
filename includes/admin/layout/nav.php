@@ -116,7 +116,7 @@
             <i class="fa fa-fw fa-plus-circle"></i>
           </a>
           <div class="dropdown-menu" aria-labelledby="messagesDropdown">
-            <a class="dropdown-item" data-toggle="modal" data-target="#addInventoryModal">
+            <a class="dropdown-item" href="/admin/inventory/add">
               New Inventory
             </a>
           </div>

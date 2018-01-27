@@ -1,10 +1,8 @@
 <?php 
 require_once("../../functions/adm.php"); 
 $adm = new Adm();
-$adm->includeMod("admin");
-$admin = new Admin();
 
-$admin->head(); 
+$adm->header(false); 
 
 ?>
 
